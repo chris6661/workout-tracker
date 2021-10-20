@@ -1,8 +1,8 @@
-import React from 'react'
-
+import React from 'react'; 
+import './feature.css'; 
 function Feature() {
     return (
-        <div>
+        <div className="feature-main">
             feature workout
         </div>
     )

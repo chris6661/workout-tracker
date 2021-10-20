@@ -1,8 +1,8 @@
 import './App.css';
-import Header from "./components/Header"; 
-import Home from "./components/Home"; 
-import Feature from "./components/Feature"; 
-import Progress from "./components/Progress"; 
+import Header from "./components/header/Header"; 
+import Home from "./components/home/Home"; 
+import Feature from "./components/feature/Feature"; 
+import Progress from "./components/progress/Progress"; 
 
 function App() {
   return (
