@@ -4,7 +4,7 @@ import './progress.css';
 function Progress() {
     return (
         <div className="progress-main"> 
-            progress section
+            workout progress section
         </div>
     )
 }
